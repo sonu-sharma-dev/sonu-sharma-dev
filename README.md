@@ -1,6 +1,4 @@
 <p align="center"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonusharma124&show_icons=true&theme=radical" /><p/>
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sonu Sharma</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
