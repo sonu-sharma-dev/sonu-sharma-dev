@@ -34,6 +34,5 @@
 <p><img align="right" width="33%" src="https://github-readme-stats.vercel.app/api?username=sonu-sharma-dev&show_icons=true&locale=en" alt="sonu-sharma-dev" /></p>
 
 
-<p align="center">
   <img align="center" width="33%" style="margin-top:30px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-sharma-dev&show_icons=true&theme=radical"/>
-<p/>
+
