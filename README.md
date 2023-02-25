@@ -1,5 +1,3 @@
-<p align="center"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-sharma-dev&show_icons=true&theme=radical"/>
-<p/>
 <h1 align="center">Hi 👋, I'm Sonu Sharma</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="Center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -34,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu-sharma-dev&show_icons=true&locale=en" alt="sonu-sharma-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-sharma-dev&" alt="sonu-sharma-dev" /></p>
-
+<p align="center"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-sharma-dev&show_icons=true&theme=radical"/>
+<p/>
