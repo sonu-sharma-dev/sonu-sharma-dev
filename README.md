@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sonuvijay457@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/sonu-sharma-resume](https://tinyurl.com/sonu-sharma-resume)
+- 📄 Know about my experiences https://drive.google.com/file/d/1EPm0xs1rT3KWRKCEfYEPbGPWla4fCTaP/view?usp=sharing
 
 - ⚡ Fun fact **I am funny**
 <br>
